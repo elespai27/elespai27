@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner1.jpg" width="300"/>
+  <img src="./assets/banner2.jpg" width="500" alt="Person standing and looking up at large, dramatic clouds illuminated by blue and white lights in a dark, futuristic space. The scene feels dreamy and contemplative, with a sense of wonder and curiosity. No visible text in the image." />
 </div>
 
 <h3 align="center"> Hi there! I'm Verónica </h3>
