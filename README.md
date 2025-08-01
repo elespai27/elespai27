@@ -18,7 +18,7 @@
 
 ### 🚀 Technologies & Tools
 
-- **Frontend:** HTML, CSS, TailwindCSS, JavaScript, Vue, Angular, IONIC
+- **Frontend:** HTML, CSS, JavaScript, Vue, Angular, IONIC
 - **Backend** JAVA, SpringBoot
 - **Tools:** Intellij, Visual Studio Code, Git/GitHub, Angular CLI, Postman, DBeaver
 - **Databases:** SQL
