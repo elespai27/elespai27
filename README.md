@@ -20,7 +20,7 @@
 
 - **Frontend:** HTML, CSS, JavaScript, Vue, Angular, IONIC
 - **Backend** JAVA, SpringBoot
-- **Tools:** Intellij, Visual Studio Code, Git/GitHub, Angular CLI, Postman, DBeaver
+- **Tools:** Intellij, Visual Studio Code, Git/GitHub, Angular CLI, Postman, DBeaver, Figma
 - **Databases:** SQL
 - **Others:** Code organization and structuring, practical problem-solving
 
