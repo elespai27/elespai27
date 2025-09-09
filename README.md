@@ -10,31 +10,26 @@
 
 ### 🧑‍💻 About Me
 
-- Hi! I'm Veronica González Amor, a developer, designer, and occasional photographer from Barcelona, Spain.
+- Hi! I'm Veronica González Amor, a developer, designer, from Venezuela/Spain.
 - Currently learning fullstack development, collaborating on open source projects, and exploring JavaScript frameworks.
 - I speak Spanish, English and Catalan 🏳️.
 - **Fun fact:** I prefer simple and practical solutions ☕.
 
-
 ### 🚀 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, Vue, Angular, IONIC
-- **Backend** JAVA, SpringBoot
+- **Frontend:** HTML, CSS, JavaScript, Angular, IONIC
+- **Backend** JAVA, SpringBoot, Firebase
 - **Tools:** Intellij, Visual Studio Code, Git/GitHub, Angular CLI, Postman, DBeaver, Figma
-- **Databases:** SQL
+- **Databases:** SQL, Firebase
 - **Others:** Code organization and structuring, practical problem-solving
 
 ### 🌱 Recent Highlight Projects
 
+- **cifo** Hybrid app development.
 - **ironhack-pootasks25:** Object-oriented programming exercises & relational databases practice
-- **IT-fonaments:** IT Academy basics (HTML, JavaScript)
+- **IT-fonaments:** IT Academy basics (HTML, CSS, JavaScript)
 - **Vue:** Experiments and small tests in Vue.js
 - **Ironhack-Java-Lessons:** Practices and lab assignments in Java
-
-### 📷 Photography
-
-I also share photographic work at [uveamor.myportfolio.com](https://uveamor.myportfolio.com/work).  
-You can find and connect with me on creative and tech platforms.
 
 ### 🤝 Want to collaborate?
 
