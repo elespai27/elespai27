@@ -13,7 +13,7 @@
 - Hi! I'm a developer and designer from Venezuela/Spain.
 - Currently learning fullstack development, collaborating on open source projects, and exploring JavaScript frameworks.
 - I speak Spanish, English and Catalan 🏳️.
-- **Fun fact:** I prefer simple and practical solutions ☕.
+- I prefer simple and practical solutions ☕.
 
 ### 🚀 Technologies & Tools
 
