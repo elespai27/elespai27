@@ -30,6 +30,9 @@
 - **IT-fonaments:** IT Academy basics (HTML, CSS, JavaScript)
 - **Vue:** Experiments and small tests in Vue.js
 - **Ironhack-Java-Lessons:** Practices and lab assignments in Java
+- **Vinyl Library: work in progress**
+
+https://github.com/user-attachments/assets/36fc9528-92c5-4513-9416-bf8b19616210
 
 ### 🤝 Want to collaborate?
 
